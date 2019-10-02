@@ -1,2 +1,2 @@
 # Selecting identical, similar and blurred images using numpy -  RailsReactor Summer School application task
-Implemented comparison of hashed images 
+Algorithms for comparing image similarities using hash comparison and histogram comparison with pure numpy. 
